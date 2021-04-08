@@ -1,1 +1,28 @@
+Password Strength Tester with Flask
+I will create code that tests the strength of a password inputted.
+If password is too weak, it will recommend adding random special characters.
+If password contains special characters, letters, capital letters, and numbers, it will return with verification that the password is strong.
+This code will run in a flask webpage that asks for input and returns text for validation or recommendation.
 
+Some code that will help me create a flask page look nice and run a simple input with test:
+(I will be using the Flask Demo within D2L as a basis for my flask webpage)
+
+-(I have found that the flask example given not only is the most thorough I can find compared to most github entries, but it is also
+the easiest to follow and work around while learning how to maneuver flask. It also shares some design aspects I wish to implement
+into my project, and they will come in handy.)
+
+Some code that is similar to the logic I will be using in the password checker:
+https://github.com/Caleb335/password-strenght.git
+
+-(This code shares similar logic to what I will use for multiple different tests. Although this test mainly checks for password length, I
+will be testing parameters like special characters, mix characters, numbers, along with length. The logic is similar, just with more steps.)
+
+Some code that uses a very interesting points system to validate if passwords are strong or need work:
+https://github.com/igos/passfun.git
+
+-(I have found there are more than 5 ways I can set up my logic to decide if a password is strong, and this way looks the
+most fun, but I would like to see if my original logic is sound first.)
+
+Currently, I believe checking the length initially, then creating a list of the characters in the string and checking for diversity is a good solution
+
+I may create a points system and implement it into the original logic I am planning on using.
