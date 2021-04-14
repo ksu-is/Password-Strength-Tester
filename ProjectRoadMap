@@ -26,3 +26,5 @@ most fun, but I would like to see if my original logic is sound first.)
 Currently, I believe checking the length initially, then creating a list of the characters in the string and checking for diversity is a good solution
 
 I may create a points system and implement it into the original logic I am planning on using.
+
+Coding Day 1: I added my layout page, it is a simple html layout that will operate in tandem with the about, home, and css pages, and display a simple title.
