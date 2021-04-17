@@ -30,3 +30,5 @@ I may create a points system and implement it into the original logic I am plann
 Coding Day 1: I added my layout page, it is a simple html layout that will operate in tandem with the about, home, and css pages, and display a simple title.
 
 Coding Day 2: Added home page of website that will host the password tester, taking input of passwords and will return password given and strength of password.
+
+Coding Day 3: Added the about page. This page will be accessed through the menu bar at the top and will describe what the page does and who created it.
