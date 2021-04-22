@@ -42,3 +42,34 @@ div.about {
     -moz-border-radius: 5px;
       border-radius: 5px;
 }
+h2 {
+  font-size: 3em;
+  margin-top: 50px;
+  text-align: center;
+  letter-spacing: -2px;
+}
+h3 {
+  font-size: 3em;
+  font-weight: 100;
+  margin-top: 50px;
+  text-align: center;
+  letter-spacing: -2px;
+  color: black;
+}
+.menu {
+  float: right;
+  margin-top: 10px;
+}
+.menu li {
+  display: inline;
+}
+menu li + li {
+  margin-left: 30px;
+}
+menu li a {
+  color: green;
+  text-decoration: none;
+}
+
+
+
