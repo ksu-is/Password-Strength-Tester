@@ -39,4 +39,6 @@ Coding day 5: Added initial css modifications to html in heading layout, page la
 
 Coding day 6: Finishing up css file with header information and menu formatting
 
-
+Initial stage completion: At this time, the flask page and formatting is mostly set up. I need to continue to customize the website using the CSS file to personalize it.
+  I also still need to implement the password strenght tester into the website. This will be my main goal post sprint 2. 
+  So far, everything is working well and I have learned much about creating flask webpages.
