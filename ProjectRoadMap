@@ -44,3 +44,6 @@ Initial stage completion: At this time, the flask page and formatting is mostly 
   So far, everything is working well and I have learned much about creating flask webpages.
   
  Entire page gets facelift via small updates to every aspect of code in visual studio code.
+ 
+ Final coding change: I implemented the final iteration of the password strength tester. The logic used to determine the strength of passwords given is in place,
+ the main code has been commented explaining the logic, and the about page has been updated with a rubrik.
